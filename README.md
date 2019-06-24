@@ -1,3 +1,1 @@
-# Сlassification with FFNN
-
-Feedforward neural networks to classify images
+# Feedforward neural networks (FFNN)
