@@ -9,7 +9,5 @@
 # Jupyter Notebook
 .ipynb_checkpoints
 
-
 # datasets
-classify_MNIST_handwritten_digits/dataset/MNIST
-!classify_MNIST_handwritten_digits/dataset/MNIST/mnist_readme.txt
+classify_MNIST_handwritten_digits/dataset/MNIST/*_full.csv
