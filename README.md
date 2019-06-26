@@ -1,4 +1,4 @@
-# Feedforward neural networks (FFNN)
+# Feedforward Neural Network (FFNN)
 
 ## 1. Crossmatching of blood plasma
 
